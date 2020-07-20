@@ -7,7 +7,7 @@ You can check the paper through this [link](https://www.comp.nus.edu.sg/~xiangna
 I used author's preprocessed dataset.
 
 ## Experiment
-I only checked the performance of NeuMF model without pre-training on ml-1m dataset. The hyperparmeters were like following.
+I only checked the performance of NeuMF model without pre-training on ml-1m dataset. The hyperparmeters were set as the following.
 
 | hyperparameter        | value           |  |
 | ------------- |:--------:| ------:|
@@ -18,7 +18,7 @@ I only checked the performance of NeuMF model without pre-training on ml-1m data
 | number of negative instances to pair with a positive instance | 4 | --num_neg |
 | fixed learning rate | 5e-05 | --lr |
 
-The best performance was like following. These are almost same with what paper showed.
+The best performance was as below. These are almost same with what paper showed.
 | Movielens HR  | Movielens NDCG |
 | ------------- |:--------:|
 | 0.6997        | 0.4245 |
