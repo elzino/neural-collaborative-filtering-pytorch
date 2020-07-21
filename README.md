@@ -18,7 +18,7 @@ I only checked the performance of NeuMF model without pre-training on ml-1m data
 | number of negative instances to pair with a positive instance | 4 | --num_neg |
 | fixed learning rate | 5e-05 | --lr |
 
-The best performance was as below. These are almost same with what paper showed.
+The best performance was as below. These are almost same with what the paper showed.
 | Movielens HR  | Movielens NDCG |
 | ------------- |:--------:|
 | 0.6997        | 0.4245 |
