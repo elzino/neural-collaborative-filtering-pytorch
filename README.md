@@ -33,4 +33,4 @@ The best performance was as below. These are almost same with what paper showed.
 
 ## Todo
 - implement MLP and GMF models respectively
-- add more experiments on various settings. (different datasets, different hyperparmeters)
+- add more experiments in various settings. (different datasets, different hyperparmeters)
