@@ -13,7 +13,7 @@ I only checked the performance of NeuMF model without pre-training on ml-1m data
 | ------------- |:--------:| ------:|
 | number of epochs | 9 | --epochs | 
 | batch size | 256 | --batch_size |
-| dimmension of gmf vector | 4 | --num_factors |
+| dimmension of gmf vector | 32 | --num_factors |
 | dimmensions of mlp hidden layers | [64,64,32,16] | --layers |
 | number of negative instances to pair with a positive instance | 4 | --num_neg |
 | fixed learning rate | 5e-05 | --lr |
