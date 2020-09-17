@@ -7,7 +7,7 @@ You can check the paper through this [link](https://www.comp.nus.edu.sg/~xiangna
 I used author's preprocessed dataset.
 
 ## Experiment
-I only checked the performance of NeuMF model without pre-training on ml-1m dataset. The hyperparmeters were set as the following.
+I only checked the performance of NeuMF model on ml-1m dataset without pre-training. The hyperparmeters were set as the following.
 
 | hyperparameter        | value           |  |
 | ------------- |:--------:| ------:|
